@@ -61,6 +61,8 @@ window.addEventListener("DOMContentLoaded", () => {
   document.querySelector(".main").style.paddingTop = `${document.querySelector(".master_header").offsetHeight}`;
 
 })
+
+console.log("test 123123123")
 // Storefront shptka_23ec5df5fb58aa768438cd8e2a498855
 // Admin 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
 

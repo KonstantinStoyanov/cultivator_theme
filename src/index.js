@@ -42,6 +42,8 @@ window.addEventListener("DOMContentLoaded", () => {
   console.log("git gittedddddddddddddddddddd")
   console.log("test")
   console.log("test23")
+console.log("test 123123123")
+
   // Partials
   if(document.querySelector(".list_item")){product_lists()}
   if(document.querySelector('.search_icon')){search_toggle()}
@@ -62,7 +64,6 @@ window.addEventListener("DOMContentLoaded", () => {
 
 })
 
-console.log("test 123123123")
 // Storefront shptka_23ec5df5fb58aa768438cd8e2a498855
 // Admin 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
 
